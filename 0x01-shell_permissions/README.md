@@ -5,3 +5,4 @@ a  script that changes the owner of the file hello to the user betty.
 A script that creates empty file
 A script that executes a file
 a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+A script that creates the directory my dir
