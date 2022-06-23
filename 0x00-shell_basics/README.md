@@ -1,1 +1,2 @@
-This script is for showing where i am
+This script is for showing what is in there
+This is a script showing what is in there for me in shell basics
