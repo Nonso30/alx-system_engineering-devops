@@ -10,4 +10,5 @@ script for deleting
 script for removing  a directory
 script for changing to a directory
 script for listing every filke and directory
-script for printing 
+script for printing
+A script for adding symbolic link 
