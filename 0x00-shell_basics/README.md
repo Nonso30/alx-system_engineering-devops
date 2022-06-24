@@ -6,4 +6,5 @@ A script for listing hidden files
 A script for listing directories in a long format both hidden files
 A script for creating my directory
 script for moving betty in a directory
-script for deleting 
+script for deleting
+script for removing  a directory 
