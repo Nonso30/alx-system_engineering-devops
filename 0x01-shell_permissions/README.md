@@ -7,3 +7,4 @@ A script that executes a file
 a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 a script for granting acess to users
 A script that grant others permission
+A script to set the mode for hello
