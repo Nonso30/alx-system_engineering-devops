@@ -12,4 +12,5 @@ script for changing to a directory
 script for listing every filke and directory
 script for printing
 A script for adding symbolic link
-A script for copying html 
+A script for copying html
+A script for moving A-Z alphabets 
