@@ -13,3 +13,4 @@ a script that sets the mode of the file hello the same as olleh’s mode.
 a script that creates a directory called mk dir with permissions 751 in the working directory.
  a script that changes the group owner to school for the file hello
 a script that changes ownership
+a script for symbolic link
