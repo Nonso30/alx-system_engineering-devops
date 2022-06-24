@@ -6,4 +6,4 @@ A script that creates empty file
 A script that executes a file
 a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 a script for granting acess to users
-Acsript that grant others permission
+A script that grant others permission
