@@ -9,3 +9,4 @@ a script for granting acess to users
 A script that grant others permission
 A script to set the mode for hello
 a script that sets the mode of the file hello the same as olleh’s mode.
+ script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
