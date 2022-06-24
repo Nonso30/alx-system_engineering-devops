@@ -8,4 +8,5 @@ A script for creating my directory
 script for moving betty in a directory
 script for deleting
 script for removing  a directory
-script for changing to a directory 
+script for changing to a directory
+script for listing every filke and directory 
