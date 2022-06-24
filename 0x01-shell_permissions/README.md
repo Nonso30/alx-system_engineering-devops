@@ -7,7 +7,7 @@ A script that executes a file
 a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 a script for granting acess to users
 A script that grant others permission
-A script to set the mode for hello
+a script that sets the mode of the file hello
 a script that sets the mode of the file hello the same as olleh’s mode.
  script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 a script that creates a directory called mk dir with permissions 751 in the working directory.
