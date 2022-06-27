@@ -22,4 +22,5 @@ a script that removes all letters c and C from input.
 a script that reverse its input.
 a script that displays  different users
  a command that finds all empty files and directories
-a script that lists all the files with a .gif extension in the current directory  
+a script that lists all the files with a .gif extension in the current directory
+Create a script that decodes acrostics that use the first letter of each line  
