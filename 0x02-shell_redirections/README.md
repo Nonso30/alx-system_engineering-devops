@@ -15,3 +15,4 @@ a script that takes a list of words as input and prints only words that appear e
 Display lines containing the pattern “root” from the file /etc/passwd
 a script to count that word
 a script for whats next
+a script for what is that word
