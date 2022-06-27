@@ -13,3 +13,4 @@ a script for adding 11 directories
 a script for creating newest files
 a script that takes a list of words as input and prints only words that appear exactly
 Display lines containing the pattern “root” from the file /etc/passwd
+a script to count that word
