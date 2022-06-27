@@ -18,3 +18,4 @@ a script for whats next
 a script for what is that word
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 Replace all characters A and c from input to Z and e respectively.
+a script that removes all letters c and C from input.
