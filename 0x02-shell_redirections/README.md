@@ -6,3 +6,4 @@ a script printing the last ten lines
 a script for displaying the first 10 numbers
 a script for printing the third line
 a script to print exactly like this
+a script that writes into anotherfile
