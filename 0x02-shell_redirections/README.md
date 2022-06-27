@@ -16,3 +16,4 @@ Display lines containing the pattern “root” from the file /etc/passwd
 a script to count that word
 a script for whats next
 a script for what is that word
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
