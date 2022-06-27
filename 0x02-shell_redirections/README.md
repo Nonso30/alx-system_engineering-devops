@@ -8,3 +8,4 @@ a script for printing the third line
 a script to print exactly like this
 a script that writes into anotherfile
 a script that duplicates another line
+a script for js delete
