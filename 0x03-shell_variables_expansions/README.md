@@ -8,3 +8,4 @@ script that creates a new global variable
 script that creates a new local variable.
 a script tghat writes true knowledge
 script that prints the result of POWER divided by DIVIDE
+script that displays the result of BREATH to the power LOVE
