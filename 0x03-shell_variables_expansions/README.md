@@ -3,5 +3,4 @@ Create a script that creates an alias.
 a script that creates two path
 script that counts the number of directories in the PATH
 script that lists environment variables.
-
-
+script that lists all local variables and environment variables, and functions.
