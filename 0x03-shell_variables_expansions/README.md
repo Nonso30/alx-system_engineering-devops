@@ -9,3 +9,4 @@ script that creates a new local variable.
 a script tghat writes true knowledge
 script that prints the result of POWER divided by DIVIDE
 script that displays the result of BREATH to the power LOVE
+script that converts a number from base 2 to base 10.
