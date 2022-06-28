@@ -4,3 +4,4 @@ a script that creates two path
 script that counts the number of directories in the PATH
 script that lists environment variables.
 script that lists all local variables and environment variables, and functions.
+script that creates a new global variable
